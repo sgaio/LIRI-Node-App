@@ -20,7 +20,7 @@
   "dependencies": {
     "bandsintown-events": "^1.0.4",
     "dotenv": "^6.1.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "node-spotify-api": "^1.0.7",
     "omdb": "^0.8.0",
     "request": "^2.88.0",
